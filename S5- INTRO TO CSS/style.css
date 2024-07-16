@@ -1,0 +1,25 @@
+#Mainheading{
+    background-color:blue;
+    text-align: center;
+    font-size: 2rem;
+    color:blueviolet;
+    border: 10px solid brown;
+    border-radius: 25px;
+    text-shadow: 10px 10px 10px red;
+    box-shadow: 2px 2px 2px gray;
+}
+#iplplayers{
+    background: rebeccapurple;
+}
+#kholi{
+    background-color: blue;
+    color: bisque;
+    width: 321px;
+}
+
+#hardikpara{
+    font-size: 4rem;
+}
+#iop{
+    background-color: aqua;
+}
